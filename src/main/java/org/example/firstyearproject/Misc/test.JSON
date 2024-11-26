@@ -1,0 +1,16 @@
+{
+  "Keys": [
+    {
+      "Key": "highway",
+      "Values": [
+        {
+          "Value":"residential",
+          "Color":"#FFFFFF",
+          "Road": true,
+          "Simple": true,
+          "Linewidth": 0.0005
+        }
+      ]
+    }
+  ]
+}
